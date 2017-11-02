@@ -1,0 +1,6 @@
+git_ignore/
+.idea/
+.sass-cache/
+config.rb
+scss/
+.gitignore
