@@ -635,9 +635,13 @@ h5 {
   width: 100%;
 }
 .works .our-works li {
-  max-width: 270px;
-  max-height: 200px;
+  width: 16.45%;
+  min-height: 100%;
   border: 1px solid #ebebeb;
+}
+.works .our-works li img {
+  height: 100%;
+  width: 100%;
 }
 
 .center {
